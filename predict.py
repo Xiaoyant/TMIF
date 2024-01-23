@@ -63,8 +63,6 @@ with open(os.path.join(save_dir, 'test.txt'), 'w') as output:
             img_logirs, res_logits, text_logits, mul_logits = mul_model(torch_image, torch_text)
             _, predict = torch.max(mul_logits, 1)
             pred_id = predict.item()
-            print(imgname + "~~~" + class_dict[pred_id])
-            output.write(str(class_dict.index(imgname)+1) + "_" + str(pred_id+1) + '\n')
             if class_dict[pred_id] == imgname[:len(class_dict[pred_id])]:
                 acc = acc + 1
     output.write("acnumc:" + str(acc) + "\n")
