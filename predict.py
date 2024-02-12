@@ -12,8 +12,8 @@ transform_test = transforms.Compose([
 ])
 mul_model = CrossTransIngration(num_classes=45, vocab_size=3000, embedding_size=128)
 base_dir = "./runs"
-file = "/paper2_17"
-bestmodal = "/045.ckpt"
+file = "/weights"
+bestmodal = "/015.ckpt"
 checkpoint = torch.load(base_dir + file + bestmodal)
 save_dir = base_dir + file
 mul_model.load_state_dict(checkpoint['net_state_dict'])
