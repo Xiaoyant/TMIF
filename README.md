@@ -29,4 +29,4 @@ School of Resources and Environment, Henan Polytechnic University, Jiaozuo, 4540
 
 Instruction guide:
 
-    The train.py file is used to train the model, and predict.py is used to make predictions on the test set. Predictions can be made by running the predict.py file directly after deploying the environment according to the requirements.txt file.
+The train.py file is used to train the model, and predict.py is used to make predictions on the test set. Predictions can be made by running the predict.py file directly after deploying the environment according to the requirements.txt file.
