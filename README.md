@@ -29,4 +29,12 @@ School of Resources and Environment, Henan Polytechnic University, Jiaozuo, 4540
 
 Instruction guide:
 
-The train.py file is used to train the model, and predict.py is used to make predictions on the test set. Predictions can be made by running the predict.py file directly after deploying the environment according to the requirements.txt file.
+The train.py file is used to train the model, and predict.py is used to make predictions on the test set. 
+
+To download the training model click https://pan.baidu.com/s/16-hUw3IMuOb0gf0dr9AuQg?pwd=3f74
+
+The extraction code is:3f74
+
+Download the weights file and place it in the weights folder.
+
+Predictions can be made by running the predict.py file directly after deploying the environment according to the requirements.txt file.
