@@ -20,7 +20,7 @@ except:
 from models.utils import init_log, progress_bar
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser("TMIF OFG 45 2023")
+    parser = argparse.ArgumentParser("TMIF OFM 45 2024")
     parser.add_argument('--gpu', type=str, default='0', help='select the gpu or gpus to use')
     parser.add_argument('--dataset-path', type=str, default='./data')
     parser.add_argument('--numclasses', type=int, default=45)
