@@ -6,7 +6,8 @@ The TMIF diagram
 
 From the piper:Enhanced Taxonomic Identification of Fusulinid Fossils through Image-Text Integration Using Transformer
 
-Authors Information: 
+Authors Information:
+
 ①Fukai Zhang
 School of Software, Henan Polytechnic University, Jiaozuo, 454000, China
 State Key Laboratory Cultivation Base for Gas Geology and Gas Control, Henan Polytechnic University, Jiaozuo, 454000, China
@@ -15,6 +16,7 @@ State Key Laboratory Cultivation Base for Gas Geology and Gas Control, Henan Pol
 ③Chao Liu
 School of Resources and Environment, Henan Polytechnic University, Jiaozuo, 454000, China
 
-Instruction guide：
+Instruction guide:
+
 The train.py file is used to train the model, and predict.py is used to make predictions on the test set.
 Predictions can be made by running the predict.py file directly after deploying the environment according to the requirements.txt file.
