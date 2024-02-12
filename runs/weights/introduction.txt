@@ -1,0 +1,1 @@
+The weight files for model training are placed in this folder. To download the training model click https://pan.baidu.com/s/16-hUw3IMuOb0gf0dr9AuQg?pwd=3f74. The extraction code is 3f74. 
