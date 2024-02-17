@@ -5,7 +5,7 @@ A Transformer-based Multi-modal Integration Framework (TMIF) for fusulinid fossi
 
 ![TMIF](https://github.com/xiaoyantxx/TMIF/assets/154036426/7682d6df-b88c-4105-b214-d6ea325f320d)
 
-**From the piper:**Enhanced Taxonomic Identification of Fusulinid Fossils through Image-Text Integration Using Transformer
+From the piper: Enhanced Taxonomic Identification of Fusulinid Fossils through Image-Text Integration Using Transformer
 
 ### What is this repository for?
 
