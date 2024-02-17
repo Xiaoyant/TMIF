@@ -33,7 +33,7 @@ Install python 3.8 in the anaconda virtual environment on the Ubuntu operating s
 
    test.py: for testing.
 
-   requirements: includes a number of dependent packages.
+   requirements.txt: includes a number of dependent packages.
 
 2) Download the optimal training model trained by the authors. Click on the link: https://pan.baidu.com/s/16-hUw3IMuOb0gf0dr9AuQg?pwd=3f74. The extraction code is 3f74. Download the model and place it in the /runs/weights folder. 
 
