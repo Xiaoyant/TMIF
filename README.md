@@ -39,8 +39,6 @@ Install python 3.8 in the anaconda virtual environment on the Ubuntu operating s
 
 3) Deploy the environment in IDE or terminal. Click test.py, set the weights file and the path to the multimodal dataset (already set). Click run to output the class predicted by the model.
 
-4) The output prediction images are saved in the /runs/weights file.
-
 ### Who do I talk to?
 
 Fukai Zhang, Henan Polytechnic University
