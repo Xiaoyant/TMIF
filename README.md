@@ -37,11 +37,11 @@ Install python 3.8 in the anaconda virtual environment on the Ubuntu operating s
 
    requirements.txt: includes a number of dependent packages.
 
-3) Download the optimal training model trained by the authors. Click on the link: https://pan.baidu.com/s/16-hUw3IMuOb0gf0dr9AuQg?pwd=3f74. The extraction code is 3f74. Download the model and place it in the ./runs/weights folder. 
+2) Download the optimal training model trained by the authors. Click on the link: https://pan.baidu.com/s/16-hUw3IMuOb0gf0dr9AuQg?pwd=3f74. The extraction code is 3f74. Download the model and place it in the ./runs/weights folder. 
 
-4) Deploy the environment in IDE or terminal. Click test.py, set the weights file and the path to the multimodal dataset (already set). Click run to output the class predicted by the model.
+3) Deploy the environment in IDE or terminal. Click test.py, set the weights file and the path to the multimodal dataset (already set). Click run to output the class predicted by the model.
 
-5) Output file. In the ./runs/weights folder, output an output.txt file with the categories of the model's predicted samples and the accuracy. The result images of the predicted samples will all be saved in the /runs/weights folder as well.
+4) Output file. In the ./runs/weights folder, output an output.txt file with the categories of the model's predicted samples and the accuracy. The result images of the predicted samples will all be saved in the /runs/weights folder as well.
 
 ### Who do I talk to?
 
