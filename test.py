@@ -73,7 +73,7 @@ with open(os.path.join(save_dir, 'output.txt'), 'w') as output:
         font_size = int(img.width * font_percentage_width)
         font = ImageFont.truetype(font, font_size)
         text_position = (10, 10)
-        text_color = (0, 0, 0)
+        text_color = (0, )
         draw.text(text_position, class_dict[pred_id], font=font, fill=text_color)
         img.save(output_preimg_path)
 
